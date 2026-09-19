@@ -33,7 +33,7 @@ This project is a paper-folding craft model with an LED light. It can also be us
 
             9\. The paper model can then be used as a simple light-up toy for playing.
 
-![][image1]
+![Procedure](Procedure.jpg)
 
 # Uses and Applications
 
